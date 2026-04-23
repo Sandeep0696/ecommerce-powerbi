@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>ShopNest Power BI Dashboard</title>
-</head>
-<body>
 
 <h1>📊 E-Commerce Dashboard – Power BI</h1>
 
